@@ -1,0 +1,15 @@
+{
+  "name": "comickcsvtomalxml",
+  "version": "1.0.0",
+  "description": "converts a comick csv file to a mal/anilist supported xml file",
+  "main": "comickcsvtomalxml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kirbon",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "fast-xml-parser": "^4.5.1"
+  }
+}
