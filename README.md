@@ -1,6 +1,6 @@
 # ComickcsvtoMALxml-nodejs
 Converts a Comick csv file to a MAL/Anilist supported xml file using node.js!!!!
-
+this is for the official comick website!
 ## Install dependencies:
    ```sh
    npm install
