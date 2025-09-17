@@ -1,3 +1,5 @@
+# RIP COMICK! this was the code used for the export used for the site that I gave to meo for reference. Comick was the best site of all time. sad to see it go...
+
 # ComickcsvtoMALxml-nodejs
 Converts a Comick csv file to a MAL/Anilist supported xml file using node.js!!!!
 this is for the official comick website!
