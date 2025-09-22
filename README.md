@@ -1,4 +1,4 @@
-# EDIT: RIP COMICK! this was the code used for the export tool used for the site that I gave to meo for reference. Comick was the leading manga site of all time. sad to see it go...
+# EDIT: RIP COMICK! this was the code used for the export tool used for the site that I gave to meo for reference.
 
 # ComickcsvtoMALxml-nodejs
 Converts a Comick csv file to a MAL/Anilist supported xml file using node.js!!!!
